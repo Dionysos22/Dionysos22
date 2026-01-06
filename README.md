@@ -31,7 +31,7 @@ I am a Computer Engineering student passionate about technology and software eng
 
 ---
 ### Stats
-![Dionysos22 Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dionysos22&theme=tokyonight)
+![Dionysos22's Metrics](https://metrics.lecoq.io/Dionysos22?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&metadata=1)
 
 ---
 ### 🛠️ Tech Stack
