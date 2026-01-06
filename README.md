@@ -1,4 +1,10 @@
+<p align="center">
+  <img src="<img width="1913" height="800" alt="image" src="https://github.com/user-attachments/assets/2d8c8c86-f9a2-4fbc-a089-85f76b2d08b4" />
+" alt="Star Wars Banner" width="100%">
+</p>
+
 # Hello there! I'm Sarp Mataş (Dionysos22) 👋
+
 
 ### 💻 Computer Engineering Student @ Ankara University
 
