@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="<img width="1913" height="800" alt="image" src="https://github.com/user-attachments/assets/2d8c8c86-f9a2-4fbc-a089-85f76b2d08b4" />
-" alt="Star Wars Banner" width="100%">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FHello_there&psig=AOvVaw1OdpgbppVCOF-ZCYJ824qY&ust=1767774035029000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLj_rdK99pEDFQAAAAAdAAAAABAE" alt="Star Wars Banner" width="100%">
 </p>
 
 # Hello there! I'm Sarp Mataş (Dionysos22) 👋
+...
 
 
 ### 💻 Computer Engineering Student @ Ankara University
