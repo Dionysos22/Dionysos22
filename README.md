@@ -1,8 +1,8 @@
 <p align="center">
   <img src="hello_there.jpg" alt="Star Wars Banner" width="100%">
 </p>
+
 # Hello there! I'm Sarp Mataş (Dionysos22) 👋
-...
 
 
 ### 💻 Computer Engineering Student @ Ankara University
