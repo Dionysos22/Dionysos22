@@ -31,16 +31,14 @@ I am a Computer Engineering student passionate about technology and software eng
 
 ---
 ### Stats
-![Dionysos22's Metrics](https://metrics.lecoq.io/Dionysos22?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&metadata=1)
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dionysos22&layout=compact&theme=tokyonight" />
 
 ---
-### 🛠️ Tech Stack & Skills
-
 ### 🛠️ Tech Stack
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,py,html,css,js,linux,git,vscode,react,tailwind&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=c,py,html,css,js,linux,git,vscode,&theme=dark" />
   </a>
 </p>
 ---
