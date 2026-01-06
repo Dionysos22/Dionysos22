@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstarwars.fandom.com%2Fwiki%2FHello_there&psig=AOvVaw1OdpgbppVCOF-ZCYJ824qY&ust=1767774035029000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLj_rdK99pEDFQAAAAAdAAAAABAE" alt="Star Wars Banner" width="100%">
-</p>
-
 # Hello there! I'm Sarp Mataş (Dionysos22) 👋
 ...
 
