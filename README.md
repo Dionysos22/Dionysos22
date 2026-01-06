@@ -31,9 +31,8 @@ I am a Computer Engineering student passionate about technology and software eng
 
 ---
 ### Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dionysos22&show_icons=true&theme=tokyonight" alt="Dionysos22 GitHub Stats" />
-</p>
+![Dionysos22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dionysos22&show_icons=true&theme=tokyonight)
+---
 ### 🛠️ Tech Stack & Skills
 
 <p align="left">
