@@ -10,7 +10,6 @@ I am a Computer Engineering student passionate about technology and software eng
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarpmatas)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dionysos22)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dionysos.me)
 
 ---
 
@@ -44,5 +43,5 @@ Feel free to reach out to me about hardware technologies, computer components, o
 ---
 <p align="center">
   <a href="https://linkedin.com/in/sarpmatas"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://dionysos.me"><img src="https://img.shields.io/badge/-Website-black?style=flat-square&logo=google-chrome" alt="Website"></a>
+  <a href="https://github.com/Dionysos22"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" alt="GitHub"></a>
 </p>
