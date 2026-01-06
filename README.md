@@ -31,7 +31,7 @@ I am a Computer Engineering student passionate about technology and software eng
 
 ---
 ### Stats
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Dionysos22&layout=compact&theme=tokyonight" />
+![Dionysos22 Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dionysos22&theme=tokyonight)
 
 ---
 ### 🛠️ Tech Stack
@@ -41,6 +41,7 @@ I am a Computer Engineering student passionate about technology and software eng
     <img src="https://skillicons.dev/icons?i=c,py,html,css,js,linux,git,vscode,&theme=dark" />
   </a>
 </p>
+
 ---
 
 ### 💬 Contact
