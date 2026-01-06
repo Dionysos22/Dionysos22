@@ -1,9 +1,8 @@
 
 # Hello there! I'm Sarp Mataş (Dionysos22) 👋
 <p align="center">
-  <img src="hello_there.jpg" alt="Star Wars Banner" width="100%">
+  <img src="star-wars-hello-there.gif" alt="Hello There GIF" width="100%">
 </p>
-
 
 
 ### 💻 Computer Engineering Student @ Ankara University
