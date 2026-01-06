@@ -1,5 +1,8 @@
 
 # Hello there! I'm Sarp Mataş (Dionysos22) 👋
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Dionysos22&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p
 <p align="center">
   <img src="star-wars-hello-there.gif" alt="Hello There GIF" width="100%">
 </p>
@@ -10,10 +13,8 @@
 I am a Computer Engineering student passionate about technology and software engineering. I focus on self-improvement in systems programming, web technologies, and hardware architecture.
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dionysos22&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
----
+>
+
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarpmatas)
