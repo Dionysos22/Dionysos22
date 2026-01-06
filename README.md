@@ -31,21 +31,18 @@ I am a Computer Engineering student passionate about technology and software eng
 
 ---
 ### Stats
-[![Dionysos22's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dionysos22&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Dionysos22's Metrics](https://metrics.lecoq.io/Dionysos22?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&metadata=1)
 
 ---
 ### 🛠️ Tech Stack & Skills
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+### 🛠️ Tech Stack
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,py,html,css,js,linux,git,vscode,react,tailwind&theme=dark" />
+  </a>
+</p>
 ---
 
 ### 💬 Contact
