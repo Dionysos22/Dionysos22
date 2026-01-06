@@ -10,7 +10,9 @@
 I am a Computer Engineering student passionate about technology and software engineering. I focus on self-improvement in systems programming, web technologies, and hardware architecture.
 
 ---
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dionysos22&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sarpmatas)
@@ -26,6 +28,12 @@ I am a Computer Engineering student passionate about technology and software eng
 - 📖 **Personal:** A big fan of the Star Wars universe and sci-fi literature.
 
 ---
+### 📊 My GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dionysos22&show_icons=true&theme=radical" alt="Dionysos22 stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dionysos22&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
 
 ### 🛠️ Tech Stack & Skills
 
